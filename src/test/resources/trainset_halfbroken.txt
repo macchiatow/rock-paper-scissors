@@ -1,0 +1,5 @@
+PASddd,ROCK
+ROCK,ROCK
+PAPER,ROCK
+PASddd,ROCK
+wrong entry
